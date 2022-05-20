@@ -17,10 +17,7 @@ const App=()=> {
   <Header />
   <Home/>
   <Features/>
-  <Portfolio/>
   <Resume/>
-  <Testionial/>
-  <Blog/>
   <Contact />
   <Footer />
   </>

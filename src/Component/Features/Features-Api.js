@@ -13,7 +13,7 @@ const data = [
     },
     {
       id: 3,
-      image: "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-ui-marketing-agency-flaticons-lineal-color-flat-icons.png",
+      image: "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/60/external-ui-marketing-agency-flaticons-lineal-color-flat-icons.png",
       title: "UI & UX designer",
       desc: "I throw myself down among the tall grass by the stream as I lie close to the earth.",
     },
